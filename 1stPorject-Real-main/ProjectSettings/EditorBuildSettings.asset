@@ -14,4 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CreditScene.unity
     guid: cb901a40ff3663240abf383df37d8836
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: ee0e8c984310467438bb52a5b800f7bd
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
