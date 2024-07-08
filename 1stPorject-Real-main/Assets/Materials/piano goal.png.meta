@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      piano goal_0: -7496175044172524607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
